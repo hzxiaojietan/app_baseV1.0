@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="separator_line">#dddddd</color>
+
+    <color name="color1">#333333</color>
+    <color name="color2">#c3c3c3</color>
+    <color name="color3">#747474</color>
+    <color name="color4">#999999</color>
+    <color name="color5">#FFAE0B</color>
+    <color name="color6">#F39800</color>
+    <color name="color7">#0099FF</color>
+    <color name="color8">#E83828</color>
+    <color name="color9">#ea5514</color>
+    <color name="color10">#EDEDED</color>
+</resources>
